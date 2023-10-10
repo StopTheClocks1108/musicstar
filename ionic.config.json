@@ -1,0 +1,8 @@
+{
+  "name": "musicstar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "afc6ff51"
+}
